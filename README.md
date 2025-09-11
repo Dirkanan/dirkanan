@@ -7,13 +7,13 @@
 </div>
 
 
-### <img src="./assets/gifs/hacker.gif" width="40" alt="Обо мне" /> **Обо мне**
+### <img src="./gifs/hacker.gif" width="40" alt="Обо мне" /> **Обо мне**
 
 Нахожусь на старте карьеры Python-разработчика, но обладаю быстрой обучаемостью и огромной мотивацией. На данный момент делаю акцент веб-разработке и создание чат ботов различной сложности.
 Уверен, что мой потенциал позволит в кратчайшие сроки стать сильным специалистом!
 
 
-### <img src="./assets/gifs/code-element.gif" width="20" alt="Мои навыки" /> **Мои навыки**
+### <img src="./gifs/code-element.gif" width="20" alt="Мои навыки" /> **Мои навыки**
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=Python&logoColor=white)
